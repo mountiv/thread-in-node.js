@@ -39,6 +39,7 @@ Mathematical computation - such as generating primes, factorizing large numbers,
 
 The slowdown in all these operations is caused by the CPU spending a lot of time executing code, as opposed to reading data from disk or the network. They're iterative tasks, so increasing the number of passes performed in parallel is the best route to a performance improvement. Worker threads are a mechanism for achieving this.
 
-## Author
+## Author 
+© me
 
-© lucky7123
+
